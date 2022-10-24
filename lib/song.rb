@@ -46,4 +46,4 @@ Song.artists
 Song.all
 Song.genres
 
-binding.pry
+# binding.pry
